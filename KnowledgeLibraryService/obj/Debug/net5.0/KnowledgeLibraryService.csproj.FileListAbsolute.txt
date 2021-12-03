@@ -1,0 +1,12 @@
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\bin\Debug\net5.0\KnowledgeLibraryService.deps.json
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\bin\Debug\net5.0\KnowledgeLibraryService.dll
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\bin\Debug\net5.0\ref\KnowledgeLibraryService.dll
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\bin\Debug\net5.0\KnowledgeLibraryService.pdb
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.csprojAssemblyReference.cache
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.GeneratedMSBuildEditorConfig.editorconfig
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.AssemblyInfoInputs.cache
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.AssemblyInfo.cs
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.csproj.CoreCompileInputs.cache
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.dll
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\ref\KnowledgeLibraryService.dll
+D:\开发\资料\知识库\KnowledgeLibraryApi\KnowledgeLibraryService\obj\Debug\net5.0\KnowledgeLibraryService.pdb

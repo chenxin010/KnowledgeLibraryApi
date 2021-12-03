@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnowledgeLibraryApi", "Know
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeLibraryService", "..\KnowledgeLibraryService\KnowledgeLibraryService.csproj", "{767EFD1D-F5BC-421E-897F-B82F1D98368A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeLibaryCore", "..\KnowledgeLibaryCore\KnowledgeLibaryCore.csproj", "{7AADE9A8-F4C3-43FA-B2B1-A6901B6781F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeLibraryCore", "..\KnowledgeLibaryCore\KnowledgeLibraryCore.csproj", "{7AADE9A8-F4C3-43FA-B2B1-A6901B6781F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeLibraryRepository", "..\KnowledgeLibraryRepository\KnowledgeLibraryRepository.csproj", "{04C24CF2-5073-4AB8-806E-56F91F91EE04}"
 EndProject

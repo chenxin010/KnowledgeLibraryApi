@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\KnowledgeLibaryCore.csproj",
-      "projectName": "KnowledgeLibaryCore",
-      "projectPath": "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\KnowledgeLibaryCore.csproj",
+      "projectUniqueName": "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\KnowledgeLibraryCore.csproj",
+      "projectName": "KnowledgeLibraryCore",
+      "projectPath": "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\KnowledgeLibraryCore.csproj",
       "packagesPath": "C:\\Users\\chenxin\\.nuget\\packages\\",
       "outputPath": "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\obj\\",
       "projectStyle": "PackageReference",

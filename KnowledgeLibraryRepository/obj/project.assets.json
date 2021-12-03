@@ -607,6 +607,29 @@
             "rid": "win"
           }
         }
+      },
+      "KnowledgeLibraryCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "KnowledgeLibraryService": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KnowledgeLibraryCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KnowledgeLibraryCore.dll": {}
+        }
+      },
+      "KnowledgeLibraryService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/KnowledgeLibraryService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KnowledgeLibraryService.dll": {}
+        }
       }
     }
   },
@@ -1759,10 +1782,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "KnowledgeLibraryCore/1.0.0": {
+      "type": "project",
+      "path": "../KnowledgeLibaryCore/KnowledgeLibraryCore.csproj",
+      "msbuildProject": "../KnowledgeLibaryCore/KnowledgeLibraryCore.csproj"
+    },
+    "KnowledgeLibraryService/1.0.0": {
+      "type": "project",
+      "path": "../KnowledgeLibraryService/KnowledgeLibraryService.csproj",
+      "msbuildProject": "../KnowledgeLibraryService/KnowledgeLibraryService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "KnowledgeLibraryCore >= 1.0.0",
       "Microsoft.Extensions.Configuration.Json >= 6.0.0",
       "MySql.EntityFrameworkCore >= 6.0.0-preview3.1"
     ]
@@ -1800,7 +1834,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\KnowledgeLibraryCore.csproj": {
+              "projectPath": "D:\\开发\\资料\\知识库\\KnowledgeLibraryApi\\KnowledgeLibaryCore\\KnowledgeLibraryCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
